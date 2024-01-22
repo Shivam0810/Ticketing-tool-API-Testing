@@ -1,0 +1,17 @@
+{
+  "name": "testing-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Auto.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests/*.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
